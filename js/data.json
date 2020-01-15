@@ -1,7 +1,7 @@
 [
     {
         "kraj": "Polska",
-        "flaga": "img\/polska.png",
+        "flaga": "img\\polska.png",
         "opis": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. In id quaerat laborum quisquam aspernatur, cum provident earum ab quam sed molestias et incidunt facere. Eum, recusandae quas. Soluta, eligendi doloribus?",
         "potrawy": [
             "Lorem", "ipsum", "dolor"
@@ -10,7 +10,7 @@
     
     {
         "kraj": "Anglia",
-        "flaga": "img\/anglia.png",
+        "flaga": "img\\anglia.png",
         "opis": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. In id quaerat laborum quisquam aspernatur, cum provident earum ab quam sed molestias et incidunt facere. Eum, recusandae quas. Soluta, eligendi doloribus?",
         "potrawy": [
             "Lorem", "ipsum", "dolor"
@@ -19,7 +19,7 @@
     
     {
         "kraj": "Rosja",
-        "flaga": "img\/rosja.png",
+        "flaga": "img\\rosja.png",
         "opis": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. In id quaerat laborum quisquam aspernatur, cum provident earum ab quam sed molestias et incidunt facere. Eum, recusandae quas. Soluta, eligendi doloribus?",
         "potrawy": [
             "Lorem", "ipsum", "dolor"
