@@ -60,7 +60,7 @@ html, body {
     display: flex;
 }
 
-.btn-1, .btn-2, .btn-3 {
+.btn {
     width: 200px;
     height: 100px;
     background-color: wheat;
