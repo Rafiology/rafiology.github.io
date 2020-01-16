@@ -11,7 +11,6 @@ buttonClick.forEach(function(buttonClick) {
         console.log(Data[number]);
         
         container.innerHTML = "<h1>" + Data[number].kraj + "</h1>" +
-            + Data[number].img +
             "<p>" + Data[number].opis + "</p>";
         for (var i = 0; i < Data[number].potrawy.length; i++) {
             container.innerHTML += "<li>" + Data[number].potrawy[i] + "</li>";

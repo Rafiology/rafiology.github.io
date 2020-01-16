@@ -28,6 +28,8 @@ html, body {
     max-width: 1200px;
     margin: auto;
     height: 6vh;
+	display: flex;
+	justify-content: space-between;
 }
 
 .header-text-1 {
@@ -40,6 +42,18 @@ html, body {
     margin: 0;
     padding-left: 20px;
     font-size: 1em;
+}
+
+.header-menu-icon {
+	float: right;
+	padding-right: 15px;
+	font-size: 3.3rem;
+}
+
+.fas fa-bars {
+	margin: auto;
+    cursor: pointer;
+    border: white 1px solid;
 }
 
 .footer {
@@ -70,10 +84,47 @@ html, body {
 
 .info {
     text-align: center;
-    padding-top: 30px;
+    padding-top: 20px;
+}
+
+.info-text-1 {
+	margin-bottom: 20px;
+	padding: 10px;
 }
 
 .json-containter {
     width: 100%;
     padding-top: 30px;
+}
+
+.json-containter h1 {
+    font-size: 6rem;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.json-containter p {    
+    font-size: 2rem;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.json-containter li {    
+    font-size: 2rem;
+    margin-left: 40px;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+
+
+@media (max-width: 1000px) {
+	.flag-buttons {
+		width: 100%;
+		display: block;
+		}
+		
+	.btn {
+		margin: auto;
+		margin-top: 20px;
+	}
 }

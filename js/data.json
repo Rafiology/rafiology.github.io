@@ -11,18 +11,18 @@
     {
         "kraj": "Anglia",
         "flaga": "img\\anglia.png",
-        "opis": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. In id quaerat laborum quisquam aspernatur, cum provident earum ab quam sed molestias et incidunt facere. Eum, recusandae quas. Soluta, eligendi doloribus?",
+        "opis": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit laborum at odit distinctio assumenda ea ullam excepturi aut corrupti quae, autem commodi sed provident et deserunt quasi cum, dolorem officia dignissimos dolorum incidunt obcaecati optio libero? Ut nisi voluptatum ea.",
         "potrawy": [
-            "Lorem", "ipsum", "dolor"
+            "Lorem", "ipsum", "dolor", "sit"
         ]
     },
     
     {
         "kraj": "Rosja",
         "flaga": "img\\rosja.png",
-        "opis": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. In id quaerat laborum quisquam aspernatur, cum provident earum ab quam sed molestias et incidunt facere. Eum, recusandae quas. Soluta, eligendi doloribus?",
+        "opis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores dicta dolorem culpa nobis provident? Officia nihil adipisci repellat omnis nisi aut sed. Asperiores nulla itaque maiores magnam quisquam consequatur eos vel laudantium officia est distinctio fugit quidem sed reiciendis, molestias ab aliquid optio sunt impedit veniam vitae debitis similique quas accusamus. Ratione dolorem dolor illum ipsum quam sit debitis rerum.",
         "potrawy": [
-            "Lorem", "ipsum", "dolor"
+            "Lorem", "ipsum", "dolor", "sit", "amet"
         ]
     }
 ]
